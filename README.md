@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Burak Emre 👋</h1>
+<h1 align="center">Hi there, I'm Burak Emre </h1>
 
 <p align="center">
   <a href="https://github.com/BurakEmrekocabicak">
@@ -13,17 +13,17 @@ I enjoy building gameplay systems, experimenting with mobile game mechanics, and
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
-- 📱 Build and publish polished mobile games
-- 🎮 Expand my Unity gameplay programming skills
-- 🧩 Learn reusable game systems and scalable architecture
-- 🎨 Improve my Blender workflow for stylized mobile games
-- 🚀 Build a portfolio for a gameplay programmer position
+-  Build and publish polished mobile games
+-  Expand my Unity gameplay programming skills
+-  Learn reusable game systems and scalable architecture
+-  Improve my Blender workflow for stylized mobile games
+-  Build a portfolio for a gameplay programmer position
 
 ---
 
-## 🔍 Currently Learning
+##  Currently Learning
 
 - Mobile game architecture
 - Gameplay programming
@@ -33,7 +33,7 @@ I enjoy building gameplay systems, experimenting with mobile game mechanics, and
 
 ---
 
-## 💡 Interested In
+##  Interested In
 
 - Gameplay Systems
 - Mobile Game Development
@@ -45,7 +45,7 @@ I enjoy building gameplay systems, experimenting with mobile game mechanics, and
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
