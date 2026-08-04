@@ -56,8 +56,3 @@ I enjoy building gameplay systems, experimenting with mobile game mechanics, and
 
 ---
 
-## 📌 Current Projects
-
-- ☕ Tiny Coffee Shop (Learning Project)
-- 🍔 Burger Flow (Prototype)
-- 📱 Mobile Game Prototypes
