@@ -18,7 +18,3 @@ I bridge the gap between engaging game mechanics and scalable software architect
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurakEmrekocabicak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Burak's GitHub Stats" />
-</p>
