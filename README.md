@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Burak Emre 👋</h1>
-<h3 align="center">Game Developer | Unity Programmer</h3>
+<p align="center">
+  <a href="https://github.com/BurakEmrekocabicak">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=239120&center=true&vCenter=true&width=500&lines=Game+Developer;Unity+Programmer;System+Architecture+Enthusiast;Building+Robust+Codebases..." alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
 I bridge the gap between engaging game mechanics and scalable software architecture. I focus on building robust systems in Unity, utilizing Design Patterns to create maintainable, high-performance codebases.
