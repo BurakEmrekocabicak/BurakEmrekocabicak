@@ -10,7 +10,7 @@ I bridge the gap between engaging game mechanics and scalable software architect
 </p>
 
 - 🔭 **Currently working on:** Developing mobile games with a focus on gameplay programming, architecture and scalable Unity systems.
-- 🌱 **Currently exploring:** Expanding my 3D asset pipeline by learning and integrating Blender into my development workflow.
+- 🌱 **Currently exploring:** Learning Blender to rapidly prototype and customize assets for my Unity projects.
 - ⚡ **Technical Focus:** System Architecture (FSM, Observer, Object Pooling) and hardcore Mobile Optimization (Zero Garbage Collection Spikes, Memory Management, NonAlloc structures).
 - 💬 **Ask me about:** C#, Unity Design Patterns, Memory/GC Optimization, or Blender modeling.
 
